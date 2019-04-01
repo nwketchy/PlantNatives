@@ -1,2 +1,2 @@
-# hello-world
+# PlantNatives
 Just another repository
